@@ -6,14 +6,15 @@ Bienvenida al examen de la alumna Estefanía Zamorano. Este proyecto tiene como 
 ## 🚀 Cómo empezar
 
 Para visualizar el script de SQL clona el repositorio en tu ordenador:
-
-git clone <https://github.com/eszamoranoma/Examen_M2.git)>
-
+```bash
+git clone https://github.com/eszamoranoma/Examen_M2.git
+```
 Accede a la carpeta del proyecto:
-
+```bash
 cd Examen_M2
-
-¡Corrige con cariño los ejercicios, que están hechos con mucho SELECT * FROM amor! ❤️💪 
+```
+¡Ya estás lista para corregir (con cariño) los ejercicios!😜 
+Están hechos con mucho SELECT * FROM amor! ❤️💪 
 
 ---
 
