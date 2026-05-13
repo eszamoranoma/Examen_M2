@@ -7,7 +7,7 @@ Bienvenida al examen de la alumna Estefanía Zamorano. Este proyecto tiene como 
 
 Para visualizar el script de SQL clona el repositorio en tu ordenador:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/eszamoranoma/Examen_M2.git)>
 
 Accede a la carpeta del proyecto:
 
