@@ -14,6 +14,7 @@ Accede a la carpeta del proyecto:
 cd Examen_M2
 ```
 ¡Ya estás lista para corregir (con cariño) los ejercicios!😜 
+
 Están hechos con mucho SELECT * FROM amor! ❤️💪 
 
 ---
